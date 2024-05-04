@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Vim/vim/mlruns/0/bc43f181c6234139929f4fbcca4767ab/artifacts
+end_time: 1714407890682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc43f181c6234139929f4fbcca4767ab
+run_name: test_mini_imnet
+run_uuid: bc43f181c6234139929f4fbcca4767ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714407855254
+status: 3
+tags: []
+user_id: root

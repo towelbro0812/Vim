@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Vim/vim/mlruns/0/f54efe071153493699450b5790857b9c/artifacts
+end_time: 1714405158694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f54efe071153493699450b5790857b9c
+run_name: salty-rat-885
+run_uuid: f54efe071153493699450b5790857b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714405147459
+status: 3
+tags: []
+user_id: root

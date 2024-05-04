@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Vim/vim/mlruns/0/3fa82d3e9afd446fa136e750176c3cf3/artifacts
+end_time: 1714406593141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa82d3e9afd446fa136e750176c3cf3
+run_name: tasteful-mouse-777
+run_uuid: 3fa82d3e9afd446fa136e750176c3cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714406571744
+status: 3
+tags: []
+user_id: root

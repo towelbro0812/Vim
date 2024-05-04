@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Vim/vim/mlruns/0/ac84a500b20545b4825aa60d317e4351/artifacts
+end_time: 1714401825325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac84a500b20545b4825aa60d317e4351
+run_name: ambitious-trout-707
+run_uuid: ac84a500b20545b4825aa60d317e4351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714401813594
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Vim/vim/mlruns/0/a037b2a4e2c44ea3bedcf0f6fbe4001e/artifacts
+end_time: 1714406521242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a037b2a4e2c44ea3bedcf0f6fbe4001e
+run_name: awesome-conch-135
+run_uuid: a037b2a4e2c44ea3bedcf0f6fbe4001e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714406493578
+status: 3
+tags: []
+user_id: root
